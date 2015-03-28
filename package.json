@@ -1,0 +1,25 @@
+{
+  "name": "postfinance-simple",
+  "version": "0.0.0",
+  "description": "Simple integration of Postfinance PSP into node and javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rasteiner/postfinance-simple.git"
+  },
+  "keywords": [
+    "postfinance"
+  ],
+  "author": "Roman Steiner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rasteiner/postfinance-simple/issues"
+  },
+  "homepage": "https://github.com/rasteiner/postfinance-simple",
+  "dependencies": {
+    "escape-html": "^1.0.1"
+  }
+}
