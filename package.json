@@ -1,6 +1,6 @@
 {
   "name": "postfinance-simple",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple integration of Postfinance PSP into node and javascript",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/rasteiner/postfinance-simple",
   "dependencies": {
-    "escape-html": "^1.0.1"
+    "escape-html": "^1.0.1",
+    "sha1": "^1.1.0"
   }
 }
